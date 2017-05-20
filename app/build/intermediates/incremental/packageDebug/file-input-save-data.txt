@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Jan 16 16:41:12 MST 2017
+2.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+2.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/res/layout/popupdialog.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE

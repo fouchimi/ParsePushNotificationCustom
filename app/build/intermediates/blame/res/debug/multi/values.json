@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 57,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 57,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 52,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 50,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

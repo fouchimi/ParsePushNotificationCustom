@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/merged/debug/layout/popupdialog.xml",
+        "source": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/layout/popupdialog.xml"
+    }
+]
