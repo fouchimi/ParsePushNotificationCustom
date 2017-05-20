@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupdialog.xml",
+        "source": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\src\\main\\res\\layout\\popupdialog.xml"
     },
     {
-        "merged": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/merged/debug/layout/popupdialog.xml",
-        "source": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/layout/popupdialog.xml"
+        "merged": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupdialog.xml",
+        "source": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\src\\main\\res\\layout\\popupdialog.xml"
     }
 ]

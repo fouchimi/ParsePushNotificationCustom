@@ -3,93 +3,93 @@
 
     <item
         is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5f104a6610be382696337546c42b360987d711be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_c265654cf39da81731b2ba05828eac097874c4d5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0_49b0350415a6ec993d778cf56819acd43aaf5a0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.0/87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc/stetho-1.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/stetho-1.3.0_50c4d6b3002ea83d080761816d2ba5b720929785.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_4876e2b55effa2cab545d10ffcab85fd595e3151.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_4ccc59c08ad02e836eba8a31a749edbc649adf7d.jar" />
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_548ec31ad6d3172de0c05c2fcba3d0c979780300.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_98fe05c3c96ab893c38476b68bbce651022665d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_e7b62f499ca055dc0709741d4ae10ba0dd2b7484.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.parse/parseinterceptors/0.0.2/8c62746a7c33ffa044d9cd9c390a4c9d209b8925/parseinterceptors-0.0.2.jar"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.parse\parseinterceptors\0.0.2\8c62746a7c33ffa044d9cd9c390a4c9d209b8925\parseinterceptors-0.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8c62746a7c33ffa044d9cd9c390a4c9d209b8925">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/parseinterceptors-0.0.2_5c81677f4eecc6d0b21f9bbdbaf86a44412f99ab.jar" />
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\parseinterceptors-0.0.2_434fa2f3bae9dee781af62dc096fcdfa78703b83.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_902ac9152dd4441a75a9536b358d81a878703bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ef1491be0a4950c66f9931662536247c16ce09b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_4997874e159398fe4f1404eba6290e80b77e8ae8.jar" />
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_bdd4065f004fda8a378100550c7c51a56eef84cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_4ae0a69823e0351fe1006f69d15b50dbcffcab8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\parse-android-1.13.0_2470153112fb9dbcf56f347b112a6e9fda6f6114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.3.0\87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc\stetho-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87e6bfd8d961a57cf8cbecebcbd68489d41bd4fc">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\stetho-1.3.0_4b9a54440fab46abc7e9e21b24c9a5b624d78744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_281ea649aa9d3c13ef03b0136e2c1db08263b2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ousma\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\ousma\AndroidStudioProjects\ParsePushNotificationCustom\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_c58452cf908cd1db42627242566de56b2caf4714.jar" />
     </item>
 
 </items>

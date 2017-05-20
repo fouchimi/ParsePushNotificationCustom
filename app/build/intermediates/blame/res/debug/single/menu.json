@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
-        "source": "/home/ousmane/AndroidStudioProjects/ParsePushNotificationExample/app/src/main/res/menu/activity_main.xml"
+        "merged": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\ousma\\AndroidStudioProjects\\ParsePushNotificationCustom\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\home\\ousmane\\AndroidStudioProjects\\ParsePushNotificationExample\\app\\src\\main\\res\\menu\\activity_main.xml"
     }
 ]
